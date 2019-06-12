@@ -3,6 +3,7 @@
 using namespace std;
 
 typedef long long int ll;
+typedef long double lf;
 
 ll n, r;
 ll allocation[100][100];
